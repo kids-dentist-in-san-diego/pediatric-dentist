@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kids-dentist-in-san-diego.github.io/pediatric-dentist/sitemap.xml
